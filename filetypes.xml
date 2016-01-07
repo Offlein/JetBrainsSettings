@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="kit" type="HTML" />
+      <removed_mapping ext="html" type="HTML" />
+      <mapping ext="html" type="Smarty" />
     </extensionMap>
   </component>
 </application>
