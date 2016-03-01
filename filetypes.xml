@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="kit" type="HTML" />
       <removed_mapping ext="html" type="HTML" />
+      <mapping ext="mp3" type="Native" />
       <mapping ext="html" type="Smarty" />
     </extensionMap>
   </component>
