@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="access-control.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +18,7 @@
       <mask>*.js</mask>
       <mask>*.js, *.htm, *.html, *.php</mask>
       <mask>*.css,*.scss</mask>
+      <mask>access-control.html</mask>
     </recentFileMasks>
   </component>
 </application>
