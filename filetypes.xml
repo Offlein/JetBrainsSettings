@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="kit" type="HTML" />
       <mapping ext="mp3" type="Native" />
+      <mapping pattern="*.tpl.html" type="Twig" />
     </extensionMap>
   </component>
 </application>
