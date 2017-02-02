@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Partials" />
+    <option name="defaultScopeName" value="Partials" />
+    <option name="SEARCH_SCOPE" value="Partials" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
