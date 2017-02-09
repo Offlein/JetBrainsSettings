@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c4f7bc64-e1e0-4516-aecc-7a24cecefb75" name="Vagrant" url="https://evisors.dev">
+        <fileTransfer port="0" mountedRoot="/code/evisors-web" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
