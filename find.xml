@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Partials" />
-    <option name="defaultScopeName" value="Partials" />
-    <option name="SEARCH_SCOPE" value="Partials" />
+    <option name="customScope" value="File '[evisors-web] - .../webroot/asset/v2/css/_inc/5.general.scss'" />
+    <option name="defaultScopeName" value="File '[evisors-web] - .../webroot/asset/v2/css/_inc/5.general.scss'" />
+    <option name="SEARCH_SCOPE" value="File '[evisors-web] - .../webroot/asset/v2/css/_inc/5.general.scss'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
