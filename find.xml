@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[evisors-web] - .../webroot/asset/v2/css/_inc/5.general.scss'" />
-    <option name="defaultScopeName" value="File '[evisors-web] - .../webroot/asset/v2/css/_inc/5.general.scss'" />
-    <option name="SEARCH_SCOPE" value="File '[evisors-web] - .../webroot/asset/v2/css/_inc/5.general.scss'" />
+    <option name="customScope" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
+    <option name="defaultScopeName" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
+    <option name="SEARCH_SCOPE" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
