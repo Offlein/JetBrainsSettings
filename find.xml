@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
     <option name="defaultScopeName" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
