@@ -3,6 +3,7 @@
     <option name="customScope" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
     <option name="defaultScopeName" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
     <option name="SEARCH_SCOPE" value="File '[evisors-web] - .../Evisors/Helpers/MeetingStates/MeetingStateHelperMeet.php'" />
+    <option name="FILE_MASK" value="*.tpl.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -19,6 +20,7 @@
       <mask>*.html</mask>
       <mask>*.php</mask>
       <mask>*.css, *.scss</mask>
+      <mask>*.tpl.html</mask>
     </recentFileMasks>
   </component>
 </application>
