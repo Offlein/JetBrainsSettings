@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="index.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -20,6 +21,15 @@
       <mask>*.php</mask>
       <mask>*.css, *.scss</mask>
       <mask>*.tpl.html</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>i</mask>
+      <mask>ind</mask>
+      <mask>inde</mask>
+      <mask>index</mask>
+      <mask>index.</mask>
+      <mask>index.js</mask>
     </recentFileMasks>
   </component>
 </application>
