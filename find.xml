@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="index.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -13,16 +12,13 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>5.landing.scss</mask>
-      <mask>*.js</mask>
       <mask>*.js, *.htm, *.html, *.php</mask>
       <mask>*.css,*.scss</mask>
       <mask>access-control.html</mask>
-      <mask>*.html</mask>
       <mask>*.php</mask>
       <mask>*.css, *.scss</mask>
       <mask>*.tpl.html</mask>
       <mask>*.i</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>i</mask>
       <mask>ind</mask>
@@ -30,6 +26,14 @@
       <mask>index</mask>
       <mask>index.</mask>
       <mask>index.js</mask>
+      <mask>.js</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
