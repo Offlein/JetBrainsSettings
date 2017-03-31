@@ -4,6 +4,7 @@
       <mapping ext="kit" type="HTML" />
       <mapping ext="mp3" type="Native" />
       <mapping pattern="*.tpl.html" type="Twig" />
+      <mapping pattern="backedup-managed-schema" type="XML" />
     </extensionMap>
   </component>
 </application>
