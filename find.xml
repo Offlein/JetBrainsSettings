@@ -4,9 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>index.</mask>
       <mask>index.js</mask>
       <mask>.js</mask>
       <mask>*.h</mask>
@@ -18,14 +17,10 @@
       <mask>)*</mask>
       <mask>)</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.ph</mask>
-      <mask>*.</mask>
       <mask>p</mask>
       <mask>ph</mask>
       <mask>php</mask>
       <mask>*php</mask>
-      <mask>*.php</mask>
       <mask>*.ha</mask>
       <mask>*.hand</mask>
       <mask>*.handl</mask>
@@ -36,6 +31,11 @@
       <mask>*.handlebars</mask>
       <mask>*.ndlebars</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
