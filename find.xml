@@ -3,37 +3,36 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>5.landing.scss</mask>
-      <mask>*.js, *.htm, *.html, *.php</mask>
-      <mask>*.css,*.scss</mask>
-      <mask>access-control.html</mask>
-      <mask>*.css, *.scss</mask>
-      <mask>*.tpl.html</mask>
-      <mask>*.i</mask>
-      <mask>i</mask>
-      <mask>ind</mask>
-      <mask>inde</mask>
-      <mask>index</mask>
-      <mask>index.</mask>
       <mask>index.js</mask>
       <mask>.js</mask>
+      <mask>*.h</mask>
       <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
       <mask>)(*</mask>
       <mask>)(</mask>
       <mask>)*</mask>
       <mask>)</mask>
-      <mask>*</mask>
+      <mask>p</mask>
+      <mask>ph</mask>
+      <mask>php</mask>
+      <mask>*php</mask>
+      <mask>*.ha</mask>
+      <mask>*.hand</mask>
+      <mask>*.handl</mask>
+      <mask>*.handle</mask>
+      <mask>*.handleb</mask>
+      <mask>*.handleba</mask>
+      <mask>*.handlebar</mask>
+      <mask>*.handlebars</mask>
+      <mask>*.ndlebars</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
+      <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
-      <mask>*.h</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
