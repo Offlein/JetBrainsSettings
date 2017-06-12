@@ -4,6 +4,9 @@
       <webServer id="c4f7bc64-e1e0-4516-aecc-7a24cecefb75" name="Vagrant" url="https://evisors.dev">
         <fileTransfer port="0" mountedRoot="/code/evisors-web" accessType="MOUNT" />
       </webServer>
+      <webServer id="c607b614-8608-4b5b-b797-37e040b6793b" name="Evisors" url="https://evisors.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
