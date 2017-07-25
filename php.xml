@@ -2,7 +2,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration tool_path="/code/evisors-web/phpcs.phar" />
-      <phpcs_by_interpreter interpreter_id="7649f12d-0f05-4eb8-921e-dd117ee8e14b" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/evisors-web/phpcs.phar" />
+      <phpcs_by_interpreter interpreter_id="7649f12d-0f05-4eb8-921e-dd117ee8e14b" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
