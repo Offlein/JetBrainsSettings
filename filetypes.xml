@@ -5,6 +5,7 @@
       <mapping pattern="revision" type="PLAIN_TEXT" />
       <mapping pattern=".tpl" type="Smarty" />
       <mapping pattern=".html" type="Smarty" />
+      <mapping ext="html" type="Smarty" />
       <removed_mapping ext="tpl" type="Smarty" />
       <mapping pattern="*.tpl.html" type="Twig" />
     </extensionMap>
