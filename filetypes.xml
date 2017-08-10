@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="html" type="HTML" />
       <mapping pattern="revision" type="PLAIN_TEXT" />
+      <mapping pattern=".html" type="Smarty" />
+      <mapping pattern=".tpl" type="Smarty" />
+      <removed_mapping ext="tpl" type="Smarty" />
     </extensionMap>
   </component>
 </application>
