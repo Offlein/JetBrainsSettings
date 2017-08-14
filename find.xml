@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl.html" />
     <recentFileMasks>
-      <mask>*.handle</mask>
-      <mask>*.handleb</mask>
-      <mask>*.handleba</mask>
-      <mask>*.handlebar</mask>
-      <mask>*.handlebars</mask>
       <mask>*.ndlebars</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
@@ -18,7 +14,6 @@
       <mask>*.thtml</mask>
       <mask>*.tphtml</mask>
       <mask>*.tplhtml</mask>
-      <mask>*.tpl.html</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -28,12 +23,18 @@
       <mask>*.css, *.scs</mask>
       <mask>*.css, *.scss</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tp</mask>
+      <mask>*.tpl</mask>
+      <mask>*.tpl.</mask>
+      <mask>*.tpl.ht</mask>
+      <mask>*.tpl.html</mask>
     </recentFileMasks>
   </component>
 </application>
