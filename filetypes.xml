@@ -1,10 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="kit" type="HTML" />
-      <mapping ext="mp3" type="Native" />
+      <removed_mapping ext="html" type="HTML" />
+      <mapping pattern="revision" type="PLAIN_TEXT" />
+      <mapping pattern=".tpl" type="Smarty" />
+      <mapping pattern=".html" type="Smarty" />
+      <mapping ext="html" type="Smarty" />
+      <removed_mapping ext="tpl" type="Smarty" />
       <mapping pattern="*.tpl.html" type="Twig" />
-      <mapping pattern="backedup-managed-schema" type="XML" />
     </extensionMap>
   </component>
 </application>
