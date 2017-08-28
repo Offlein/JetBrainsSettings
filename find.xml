@@ -1,15 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl.html" />
     <recentFileMasks>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.thtml</mask>
       <mask>*.tphtml</mask>
       <mask>*.tplhtml</mask>
@@ -26,16 +21,20 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.t</mask>
-      <mask>*.tp</mask>
-      <mask>*.tpl</mask>
-      <mask>*.tpl.</mask>
       <mask>*.tpl.ht</mask>
-      <mask>*.tpl.html</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>js</mask>
       <mask>*js</mask>
       <mask>*.js</mask>
+      <mask>*tp</mask>
+      <mask>*t</mask>
+      <mask>*</mask>
+      <mask>*.tp</mask>
+      <mask>*.tpl</mask>
+      <mask>*.tpl.</mask>
+      <mask>*.tpl.h</mask>
+      <mask>*.tpl.htm</mask>
+      <mask>*.tpl.html</mask>
     </recentFileMasks>
   </component>
 </application>
