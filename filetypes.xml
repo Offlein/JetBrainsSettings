@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="revision" type="PLAIN_TEXT" />
-      <mapping pattern="views/*.html" type="Smarty" />
+      <mapping pattern="views/*/*.html" type="Smarty" />
       <mapping pattern=".tpl" type="Smarty" />
       <removed_mapping ext="tpl" type="Smarty" />
       <mapping pattern="*.tpl.html" type="Twig" />
