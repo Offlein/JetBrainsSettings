@@ -3,21 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css, *.scss" />
     <recentFileMasks>
-      <mask>*.tplhtml</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.css,</mask>
-      <mask>*.css,</mask>
-      <mask>*.css, *.sc</mask>
-      <mask>*.css, *.scs</mask>
-      <mask>*.css, *.scss</mask>
-      <mask>*.j</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.t</mask>
       <mask>*.tpl.ht</mask>
       <mask>js</mask>
       <mask>*js</mask>
@@ -31,9 +18,23 @@
       <mask>*.tpl.htm</mask>
       <mask>*.tpl.html</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.css</mask>
+      <mask>*.css,</mask>
+      <mask>*.css,</mask>
+      <mask>*.css,</mask>
+      <mask>*.css, *</mask>
+      <mask>*.css, *.</mask>
+      <mask>*.css, *.s</mask>
+      <mask>*.css, *.sc</mask>
+      <mask>*.css, *.scs</mask>
+      <mask>*.css, *.scss</mask>
     </recentFileMasks>
   </component>
 </application>
