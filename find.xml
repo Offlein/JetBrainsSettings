@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.thtml</mask>
-      <mask>*.tphtml</mask>
       <mask>*.tplhtml</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
@@ -34,6 +33,8 @@
       <mask>*.tpl.h</mask>
       <mask>*.tpl.htm</mask>
       <mask>*.tpl.html</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
