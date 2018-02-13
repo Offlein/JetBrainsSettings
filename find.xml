@@ -3,37 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.tplhtml</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.css,</mask>
-      <mask>*.css,</mask>
-      <mask>*.css, *.sc</mask>
-      <mask>*.css, *.scs</mask>
-      <mask>*.css, *.scss</mask>
-      <mask>*.j</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.t</mask>
-      <mask>*.tpl.ht</mask>
-      <mask>*.</mask>
-      <mask>js</mask>
-      <mask>*js</mask>
-      <mask>*.js</mask>
-      <mask>*tp</mask>
-      <mask>*t</mask>
-      <mask>*</mask>
-      <mask>*.tp</mask>
-      <mask>*.tpl</mask>
-      <mask>*.tpl.</mask>
-      <mask>*.tpl.h</mask>
-      <mask>*.tpl.htm</mask>
-      <mask>*.tpl.html</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
