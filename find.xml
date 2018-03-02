@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.php</mask>
-      <mask>*.css</mask>
-      <mask>*.css,</mask>
       <mask>*.css,</mask>
       <mask>*.css,</mask>
       <mask>*.css, *</mask>
@@ -19,7 +16,6 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
@@ -34,6 +30,10 @@
       <mask>*.tpl.</mask>
       <mask>*.tpl.h</mask>
       <mask>*.tpl.html</mask>
+      <mask>.</mask>
+      <mask>.h</mask>
+      <mask>.html</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
